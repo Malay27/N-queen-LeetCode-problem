@@ -1,5 +1,6 @@
 # N-queen-LeetCode-problem
 
+![image](https://user-images.githubusercontent.com/101263169/210165524-aae93f70-33c8-4ff6-956f-f471c770a8e2.png)
 
 The n-queens puzzle is the problem of placing n queens on an n x n chessboard such that no two queens attack each other.
 
